@@ -1,0 +1,5 @@
+name: WolfyCreeperEgg
+version: '1.0'
+main: ru.valerchik.wolfycreeperegg.WolfyCreeperEgg
+api-version: '1.16'
+authors: [Valerchik123]
