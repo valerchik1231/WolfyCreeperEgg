@@ -15,9 +15,7 @@ public class WolfyCreeperEgg extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        // Регистрация событий
         Bukkit.getPluginManager().registerEvents(this, this);
-        // Загружаем конфигурацию
         saveDefaultConfig();
         loadConfigValues();
     }
